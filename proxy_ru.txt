@@ -1,3 +1,4 @@
-# RU Proxies (0)
-# Updated: 2026-03-13 20:37:18 UTC
+# RU Proxies (1)
+# Updated: 2026-03-14 02:10:07 UTC
 
+tg://proxy?server=utkapay.life&port=443&secret=eec0ab2dc91cd75da14bf8bde752ca8222766473696e612e7275
