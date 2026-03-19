@@ -1,5 +1,5 @@
 # RU Proxies (2)
-# Updated: 2026-03-19 17:00:15 UTC
+# Updated: 2026-03-19 20:40:31 UTC
 
 tg://proxy?server=proxy.ciaowner.lol&port=443&secret=ee1459dda62dc99782f8741f1ab0deb4f2706574726f766963682e7275
 tg://proxy?server=go.bolshevps.su&port=443&secret=ee617782cbbfb6dcc27b0e338f570da65f6164732e78352e7275
