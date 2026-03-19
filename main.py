@@ -15,11 +15,6 @@ SOURCES = [
     # Grim1313 – форк, синхронизируется с SoliSpirit
     "https://raw.githubusercontent.com/Grim1313/mtproto-for-telegram/refs/heads/master/all_proxies.txt",  # [web:20]
 
-    # Доп. источник от ALIILAPRO
-    "https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/mtproto.txt",  # [web:35]
-
-    # Старый, но полезный список
-    "https://raw.githubusercontent.com/yemixzy/proxy-projects/main/proxies/mtproto.txt",
 ]
 
 TIMEOUT = 2.0
