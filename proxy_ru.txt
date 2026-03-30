@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-03-30 16:58:37 UTC
+# Updated: 2026-03-30 20:48:34 UTC
 
 tg://proxy?server=72.56.102.104&port=443&secret=eed8223b129a62eafcdafc08c4513e6d0531632e7275
