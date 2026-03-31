@@ -1,5 +1,5 @@
 # RU Proxies (3)
-# Updated: 2026-03-31 02:34:23 UTC
+# Updated: 2026-03-31 05:45:11 UTC
 
 tg://proxy?server=72.56.102.104&port=443&secret=eed8223b129a62eafcdafc08c4513e6d0531632e7275
 tg://proxy?server=my.safepal.life&port=443&secret=ee65682e766b2e636f6db97f3e8c4607
