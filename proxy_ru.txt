@@ -1,5 +1,5 @@
 # RU Proxies (3)
-# Updated: 2026-04-08 17:05:05 UTC
+# Updated: 2026-04-08 20:46:03 UTC
 
 tg://proxy?server=vienna-gateway-backend.wepogp.gay&port=444&secret=eedeac10ed306283dff54c13444c745b0779616e6465782e636f6d
 tg://proxy?server=158.160.232.216&port=443&secret=ee79612e727537ff352dabe2604c3fe5
