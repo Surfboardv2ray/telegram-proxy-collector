@@ -1,4 +1,5 @@
-# RU Proxies (1)
-# Updated: 2026-04-14 13:45:15 UTC
+# RU Proxies (2)
+# Updated: 2026-04-14 17:11:07 UTC
 
 tg://proxy?server=tg1.helpbitrix.org&port=443&secret=ee6b1cf68741e58d9e8ae5c5dd71da10c279616e6465782e7275
+tg://proxy?server=195.58.49.107&port=443&secret=ee1837e5b269e51c29a26d41dce60a46e16170692e79616e6465782e7275
