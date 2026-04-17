@@ -1,5 +1,5 @@
 # RU Proxies (5)
-# Updated: 2026-04-17 09:20:13 UTC
+# Updated: 2026-04-17 13:23:46 UTC
 
 tg://proxy?server=178.104.195.205&port=54921&secret=ee104462821249bd7ac519130220c25d096d61782e7275
 tg://proxy?server=news1704.mtproxygram.lol&port=443&secret=ee608248722a8f45103ed03c7994abf9b062726f777365722e79616e6465782e636f6d
