@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-04-23 02:46:47 UTC
+# Updated: 2026-04-23 06:07:09 UTC
 
 tg://proxy?server=204.168.231.128&port=8732&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
