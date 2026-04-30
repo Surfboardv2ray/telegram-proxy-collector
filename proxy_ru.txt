@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-04-30 03:23:46 UTC
+# Updated: 2026-04-30 06:28:31 UTC
 
 tg://proxy?server=tproxyru.live.&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
