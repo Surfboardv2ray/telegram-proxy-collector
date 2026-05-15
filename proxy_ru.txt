@@ -1,5 +1,5 @@
 # RU Proxies (4)
-# Updated: 2026-05-15 03:38:08 UTC
+# Updated: 2026-05-15 06:56:44 UTC
 
 tg://proxy?server=89.125.48.232&port=443&secret=ee72f3ca54320d22b0c5d8daf53168962d706574726f766963682e7275
 tg://proxy?server=mt.corph.ru&port=443&secret=ee2ed7517b077ef414e24b106e0729335d6d742e636f7270682e7275
