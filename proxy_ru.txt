@@ -1,5 +1,5 @@
 # RU Proxies (4)
-# Updated: 2026-06-12 11:44:25 UTC
+# Updated: 2026-06-12 15:17:31 UTC
 
 tg://proxy?server=mt.nowabst.net&port=853&secret=ee12893ffd2044cecd31104edc02a7e5586164732e78352e7275
 tg://proxy?server=12.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
