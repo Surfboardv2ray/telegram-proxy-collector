@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-06-13 21:17:53 UTC
+# Updated: 2026-06-14 04:14:33 UTC
 
 tg://proxy?server=13.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
