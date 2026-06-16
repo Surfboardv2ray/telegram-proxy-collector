@@ -1,3 +1,4 @@
-# RU Proxies (0)
-# Updated: 2026-06-15 22:20:22 UTC
+# RU Proxies (1)
+# Updated: 2026-06-16 04:21:21 UTC
 
+tg://proxy?server=proxy50.arixo.shop&port=443&secret=ee575d377290b9d579fe1e572c4b8d4b7b617669746f2e7275
