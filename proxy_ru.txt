@@ -1,5 +1,5 @@
 # RU Proxies (2)
-# Updated: 2026-06-25 07:44:05 UTC
+# Updated: 2026-06-25 10:43:37 UTC
 
 tg://proxy?server=tg.nowabst.net&port=853&secret=eebfbfb8093b088269716ea5262d483e1d6164732e78352e7275
 tg://proxy?server=proxy65.arixo.shop&port=443&secret=ee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275
