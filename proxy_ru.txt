@@ -1,3 +1,4 @@
-# RU Proxies (0)
-# Updated: 2026-07-07 07:39:58 UTC
+# RU Proxies (1)
+# Updated: 2026-07-07 10:57:59 UTC
 
+tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275
