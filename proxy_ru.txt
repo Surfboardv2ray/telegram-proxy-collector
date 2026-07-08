@@ -1,3 +1,5 @@
-# RU Proxies (0)
-# Updated: 2026-07-08 06:28:40 UTC
+# RU Proxies (2)
+# Updated: 2026-07-08 10:19:49 UTC
 
+tg://proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
+tg://proxy?server=51.250.90.143&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
