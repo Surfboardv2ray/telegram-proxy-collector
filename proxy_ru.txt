@@ -1,5 +1,5 @@
 # RU Proxies (2)
-# Updated: 2026-08-02 06:33:39 UTC
+# Updated: 2026-08-02 09:57:54 UTC
 
-tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
+tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
