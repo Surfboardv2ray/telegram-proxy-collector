@@ -1,4 +1,5 @@
-# RU Proxies (1)
-# Updated: 2026-08-13 02:03:16 UTC
+# RU Proxies (2)
+# Updated: 2026-08-13 05:40:13 UTC
 
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
+tg://proxy?server=gamerpr.cfd&port=8880&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
