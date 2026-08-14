@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-08-14 02:01:16 UTC
+# Updated: 2026-08-14 05:37:57 UTC
 
 tg://proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d
