@@ -1,4 +1,5 @@
-# RU Proxies (1)
-# Updated: 2026-09-01 16:12:00 UTC
+# RU Proxies (2)
+# Updated: 2026-09-01 22:26:00 UTC
 
+tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
