@@ -1,5 +1,4 @@
-# RU Proxies (2)
-# Updated: 2026-09-01 09:21:03 UTC
+# RU Proxies (1)
+# Updated: 2026-09-01 16:12:00 UTC
 
-tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
