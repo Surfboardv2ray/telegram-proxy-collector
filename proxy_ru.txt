@@ -1,3 +1,4 @@
-# RU Proxies (0)
-# Updated: 2026-09-04 08:32:51 UTC
+# RU Proxies (1)
+# Updated: 2026-09-04 15:54:21 UTC
 
+tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
