@@ -1,5 +1,4 @@
-# RU Proxies (2)
-# Updated: 2026-09-10 15:58:15 UTC
+# RU Proxies (1)
+# Updated: 2026-09-10 19:04:24 UTC
 
-tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
-tg://proxy?server=cdn14.cdnwave.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275
+tg://proxy?server=media11.happtg.org&port=443&secret=eeebd1e4235d2f40f68b3c3610b128157a686f66662e7275
