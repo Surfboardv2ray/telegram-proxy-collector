@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-10-18 15:30:34 UTC
+# Updated: 2026-10-18 18:29:14 UTC
 
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
