@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-10-25 15:41:27 UTC
+# Updated: 2026-10-25 18:45:30 UTC
 
-tg://proxy?server=cdnwake.org&port=443&secret=eecee7b6e27470f95e6aa8c507f66a0c9f686f66662e7275
+tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
