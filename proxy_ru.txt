@@ -1,4 +1,4 @@
 # RU Proxies (1)
-# Updated: 2026-10-26 18:22:21 UTC
+# Updated: 2026-10-26 23:36:19 UTC
 
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
